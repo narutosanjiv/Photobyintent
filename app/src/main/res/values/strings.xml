@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Photobyintent</string>
+    <string name="title_activity_photo_intent">PhotoIntentActivity</string>
+</resources>

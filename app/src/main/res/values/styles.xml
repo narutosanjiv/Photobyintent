@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, PhotoIntentActivity!</string>
+
+    <string name="btnIntend">Take (big) Picture</string>
+    <string name="btnIntendS">Take (small) Picture</string>
+    <string name="btnIntendV">Take Video</string>
+    <string name="cannot">Cannot</string>
+    <string name="album_name">CameraSample</string>
+
+    <style name="Test" parent="@style/Theme.AppCompat.Light.NoActionBar" >
+        <item name="colorPrimary">@color/primary_material_light_1</item>
+    </style>
+</resources>
